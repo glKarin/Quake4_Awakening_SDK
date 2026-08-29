@@ -7,9 +7,10 @@ Building or porting your mod and make it run on idTech4A++
 
 ------------
 
-> State
+> State  
+
+| Class | File | Status |
 |:-:|:-:|:-:|
-|Class|File|Status|
 |riVCWMissileTurret|[VehicleParts.cpp](neo/game/vehicle/VehicleParts.cpp ':include')|TODO|
 |riVCWPulseCannon|[VehicleParts.cpp](neo/game/vehicle/VehicleParts.cpp ':include')|TODO|
 |riVehiclePartSplineTether|[VehicleParts.cpp](neo/game/vehicle/VehicleParts.cpp ':include')|Unused|
